@@ -1,0 +1,14 @@
+{
+  "name": "protractor-framework-sample",
+  "version": "1.0.0",
+  "description": "This is sample project for Protractor",
+  "private": true,
+  "scripts": {
+    "ft": "node ./test/functional/functional-test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "protractor": "5.4.2",
+    "protractor-beautiful-reporter": "^1.3.6"
+  }
+}
