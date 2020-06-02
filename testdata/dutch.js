@@ -1,5 +1,5 @@
 module.exports = {
-    searchTerm: 'Capgemini',
-
+    sampleSite: 'https://www.google.com/',
+    searchTerm: 'Capgemini'
     };
     
